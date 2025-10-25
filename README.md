@@ -46,7 +46,6 @@ This method of combining multiple, slightly different decision trees helps to re
 
 The Random Forest model was an excellent choice for this diabetes prediction system for several reasons:
 
-*   **High Accuracy:** As demonstrated by the 0.99 accuracy score, Random Forest models are powerful and can produce highly accurate predictions.
 *   **Robustness:** They are less prone to overfitting compared to single decision trees and can handle noise and outliers in the data effectively.
 *   **Feature Importance:** Random Forest can provide insights into which medical parameters are most influential in predicting diabetes.
 *   **Handles Missing Values:** The algorithm can maintain good accuracy even when some data is missing.
