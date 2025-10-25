@@ -15,7 +15,7 @@ To ensure the highest accuracy, several machine learning models were implemented
 *   **Logistic Regression:** 0.81 accuracy
 *   **Support Vector Machine (SVM):** 0.80 accuracy
 *   **K-Nearest Neighbors (KNN):** 0.88 accuracy
-*   **Random Forest Classifier:** 0.99 accuracy
+*   **Random Forest Classifier:** 0.95 accuracy
 *   **Naïve Bayes Theorem:** 0.77 accuracy
 *   **Gradient Boost Classifier:** 0.91 accuracy
 
@@ -24,7 +24,7 @@ Based on these results, the **Random Forest Classifier** was selected for this p
 ## Features
 
 *   **Early-Stage Diabetes Prediction:** Allows users to perform a preliminary check for diabetes by inputting relevant medical parameters.
-*   **High Accuracy:** Utilizes the Random Forest Classifier, which demonstrated the highest accuracy (0.99) among the tested models.
+*   **High Accuracy:** Utilizes the Random Forest Classifier, which demonstrated the highest accuracy (0.95) among the tested models.
 *   **User-Friendly Interface:** Features a Graphical User Interface (GUI) designed for ease of use.
 *   **Efficient Decision-Making:** Aids in faster and more accurate health assessments.
 
